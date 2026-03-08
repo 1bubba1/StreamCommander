@@ -1,0 +1,9 @@
+{
+  "name": "sample_service",
+  "version": "1.0.0",
+  "description": "Sample streaming service plugin",
+  "author": "Stream Commander",
+  "capabilities": ["fetch_content", "sync_library", "search"],
+  "entry_point": "main.py",
+  "dependencies": []
+}
